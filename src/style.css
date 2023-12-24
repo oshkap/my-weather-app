@@ -52,41 +52,41 @@ footer {
   justify-content: space-between;
 }
 
-.weather-container-detailes {
+.weather-detailes-container {
   text-align: left;
 }
 
-.weather-container-detailes-city {
+.weather-detailes-city {
   margin: 0;
   font-size: 38px;
   line-height: 48px;
 }
 
-.weather-container-detailes-data {
+.weather-detailes-data {
   font-size: 16px;
   color: rgba(39, 33, 66, 0.4);
   line-height: 24px;
   font-weight: 500;
 }
 
-.weather-container-detailes-data strong {
+.weather-detailes-data strong {
   color: #f65282;
 }
 
-.weather-container-tempetarature {
+.weather-tempetarature-container {
   display: flex;
 }
 
-.weather-container-tempetarature-icon {
+.weather-tempetarature-icon {
   font-size: 44px;
   margin-top: 22px;
 }
-.weather-container-tempetarature-value {
+.weather-tempetarature-value {
   font-size: 88px;
   margin-left: 10px;
   font-weight: bold;
 }
-.weather-container-tempetarature-unit {
+.weather-tempetarature-unit {
   margin-top: 16px;
   font-size: 28px;
 }
